@@ -1,0 +1,40 @@
+11-10 19:39:11.935  2676  2676 I AndroidRuntime: Using default boot image
+11-10 19:39:11.935  2676  2676 I AndroidRuntime: Leaving lock profiling enabled
+11-10 19:39:11.979  2676  2676 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+11-10 19:39:11.986  2676  2676 D AndroidRuntime: Shutting down VM
+11-10 19:39:22.411   504  1784 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:39:42.620   504   534 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:39:48.642   504   787 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:39:56.820   504   787 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:40:21.997   504   534 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:40:47.218   504   787 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:41:12.442   504  2364 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:41:37.620   504  2364 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:41:41.806  2864  2864 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+11-10 19:41:41.807  2864  2864 I AndroidRuntime: Using default boot image
+11-10 19:41:41.807  2864  2864 I AndroidRuntime: Leaving lock profiling enabled
+11-10 19:41:41.854  2864  2864 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+11-10 19:41:41.859  2864  2864 D AndroidRuntime: Shutting down VM
+11-10 19:41:44.289   504  1157 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:41:50.309   504  1157 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:42:15.491   504  2364 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:42:35.695   504  2364 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:42:41.727   504   786 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:42:56.753   504   534 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:43:07.303   504   534 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000
+11-10 19:43:13.356  3003  3003 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+11-10 19:43:13.357  3003  3003 I AndroidRuntime: Using default boot image
+11-10 19:43:13.357  3003  3003 I AndroidRuntime: Leaving lock profiling enabled
+11-10 19:43:13.403  3003  3003 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+11-10 19:43:13.817  3003  3003 D AndroidRuntime: Shutting down VM
+11-10 19:43:16.277  3016  3016 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+11-10 19:43:16.278  3016  3016 I AndroidRuntime: Using default boot image
+11-10 19:43:16.278  3016  3016 I AndroidRuntime: Leaving lock profiling enabled
+11-10 19:43:16.316  3016  3016 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+11-10 19:43:16.731  3016  3016 D AndroidRuntime: Shutting down VM
+11-10 19:43:20.327  3037  3037 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+11-10 19:43:20.337  3037  3037 I AndroidRuntime: Using default boot image
+11-10 19:43:20.337  3037  3037 I AndroidRuntime: Leaving lock profiling enabled
+11-10 19:43:20.385  3037  3037 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+11-10 19:43:20.388  3037  3037 D AndroidRuntime: Shutting down VM
+11-10 19:43:22.815   504   787 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras)} from uid 2000

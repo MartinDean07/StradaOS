@@ -1,0 +1,139 @@
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 14/4751/7906: 592 ms
+tesela 14/4751/7907: 58 ms
+tesela 14/4751/7908: 49 ms
+tesela 14/4752/7906: 44 ms
+tesela 14/4752/7907: 59 ms
+tesela 14/4752/7908: 30 ms
+tesela 14/4753/7906: 28 ms
+tesela 14/4753/7907: 173 ms
+tesela 14/4753/7908: 94 ms
+total 1135 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 14/4751/7906: 190 ms
+tesela 14/4751/7907: 130 ms
+tesela 14/4751/7908: 121 ms
+tesela 14/4752/7906: 223 ms
+tesela 14/4752/7907: 269 ms
+tesela 14/4752/7908: 216 ms
+tesela 14/4753/7906: 28 ms
+tesela 14/4753/7907: 56 ms
+tesela 14/4753/7908: 31 ms
+total 1271 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 15/9504/15813: 171 ms
+tesela 15/9504/15814: 58 ms
+tesela 15/9504/15815: 51 ms
+tesela 15/9505/15813: 49 ms
+tesela 15/9505/15814: 51 ms
+tesela 15/9505/15815: 35 ms
+tesela 15/9506/15813: 34 ms
+tesela 15/9506/15814: 38 ms
+tesela 15/9506/15815: 29 ms
+total 524 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 15/9504/15813: 171 ms
+tesela 15/9504/15814: 59 ms
+tesela 15/9504/15815: 53 ms
+tesela 15/9505/15813: 48 ms
+tesela 15/9505/15814: 38 ms
+tesela 15/9505/15815: 35 ms
+tesela 15/9506/15813: 34 ms
+tesela 15/9506/15814: 30 ms
+tesela 15/9506/15815: 23 ms
+total 497 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 16/19010/31628: 124 ms
+tesela 16/19010/31629: 45 ms
+tesela 16/19010/31630: 32 ms
+tesela 16/19011/31628: 25 ms
+tesela 16/19011/31629: 20 ms
+tesela 16/19011/31630: 17 ms
+tesela 16/19012/31628: 26 ms
+tesela 16/19012/31629: 17 ms
+tesela 16/19012/31630: 16 ms
+total 329 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 16/19010/31628: 123 ms
+tesela 16/19010/31629: 46 ms
+tesela 16/19010/31630: 34 ms
+tesela 16/19011/31628: 28 ms
+tesela 16/19011/31629: 22 ms
+tesela 16/19011/31630: 17 ms
+tesela 16/19012/31628: 26 ms
+tesela 16/19012/31629: 20 ms
+tesela 16/19012/31630: 17 ms
+total 339 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 17/38021/63257: 119 ms
+tesela 17/38021/63258: 25 ms
+tesela 17/38021/63259: 24 ms
+tesela 17/38022/63257: 29 ms
+tesela 17/38022/63258: 24 ms
+tesela 17/38022/63259: 16 ms
+tesela 17/38023/63257: 17 ms
+tesela 17/38023/63258: 10 ms
+tesela 17/38023/63259: 13 ms
+total 285 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 17/38021/63257: 127 ms
+tesela 17/38021/63258: 29 ms
+tesela 17/38021/63259: 24 ms
+tesela 17/38022/63257: 28 ms
+tesela 17/38022/63258: 26 ms
+tesela 17/38022/63259: 19 ms
+tesela 17/38023/63257: 20 ms
+tesela 17/38023/63258: 10 ms
+tesela 17/38023/63259: 17 ms
+total 306 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 16/19280/31926: 154 ms
+tesela 16/19280/31927: 31 ms
+tesela 16/19280/31928: 18 ms
+tesela 16/19281/31926: 16 ms
+tesela 16/19281/31927: 14 ms
+tesela 16/19281/31928: 17 ms
+tesela 16/19282/31926: 14 ms
+tesela 16/19282/31927: 17 ms
+tesela 16/19282/31928: 13 ms
+total 300 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 15/9639/15962: 151 ms
+tesela 15/9639/15963: 45 ms
+tesela 15/9639/15964: 48 ms
+tesela 15/9640/15962: 172 ms
+tesela 15/9640/15963: 121 ms
+tesela 15/9640/15964: 23 ms
+tesela 15/9641/15962: 25 ms
+tesela 15/9641/15963: 24 ms
+tesela 15/9641/15964: 80 ms
+total 698 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 14/4752/7713: 12 ms
+tesela 14/4752/7714: 2 ms
+tesela 14/4752/7715: 2 ms
+tesela 14/4753/7713: 2 ms
+tesela 14/4753/7714: 103 ms
+tesela 14/4753/7715: 38 ms
+tesela 14/4754/7713: 3 ms
+tesela 14/4754/7714: 42 ms
+tesela 14/4754/7715: 49 ms
+total 261 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 15/9506/15428: 50 ms
+tesela 15/9506/15429: 27 ms
+tesela 15/9506/15430: 18 ms
+tesela 15/9507/15428: 1 ms
+tesela 15/9507/15429: 57 ms
+tesela 15/9507/15430: 31 ms
+tesela 15/9508/15428: 9 ms
+tesela 15/9508/15429: 23 ms
+tesela 15/9508/15430: 25 ms
+total 247 ms
+Mapa: colombia.map · 330 MB · 24/10/2026 · área -4.35732,-83.33104 → 16.51924,-66.71472
+tesela 16/19010/31628: 135 ms
+tesela 16/19010/31629: 68 ms
+tesela 16/19011/31628: 31 ms
+tesela 16/19011/31629: 20 ms
+total 262 ms

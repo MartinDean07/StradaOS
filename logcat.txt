@@ -1,0 +1,40 @@
+D/AndroidRuntime( 2497): Shutting down VM
+I/ActivityManager( 1380): START {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras) u=0} from pid 2497
+D/AndroidRuntime( 2509): 
+D/AndroidRuntime( 2509): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2509): CheckJNI is ON
+D/AndroidRuntime( 2509): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime( 2509): Shutting down VM
+I/AndroidRuntime( 2509): NOTE: attach of thread 'Binder_3' failed
+I/ActivityManager( 1380): START {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras) u=0} from pid 2509
+D/AndroidRuntime( 2539): 
+D/AndroidRuntime( 2539): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2539): CheckJNI is ON
+D/AndroidRuntime( 2539): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime( 2539): Shutting down VM
+I/AndroidRuntime( 2539): NOTE: attach of thread 'Binder_3' failed
+I/ActivityManager( 1380): START {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras) u=0} from pid 2539
+D/AndroidRuntime( 2551): 
+D/AndroidRuntime( 2551): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2551): CheckJNI is ON
+D/AndroidRuntime( 2551): Calling main entry com.android.commands.input.Input
+D/AndroidRuntime( 2551): Shutting down VM
+D/AndroidRuntime( 2562): 
+D/AndroidRuntime( 2562): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2562): CheckJNI is ON
+D/AndroidRuntime( 2562): Calling main entry com.android.commands.input.Input
+D/AndroidRuntime( 2562): Shutting down VM
+I/AndroidRuntime( 2562): NOTE: attach of thread 'Binder_3' failed
+D/AndroidRuntime( 2578): 
+D/AndroidRuntime( 2578): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2578): CheckJNI is ON
+D/AndroidRuntime( 2578): Calling main entry com.android.commands.input.Input
+D/AndroidRuntime( 2578): Shutting down VM
+I/AndroidRuntime( 2578): NOTE: attach of thread 'Binder_3' failed
+D/AndroidRuntime( 2590): 
+D/AndroidRuntime( 2590): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2590): CheckJNI is ON
+D/AndroidRuntime( 2590): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime( 2590): Shutting down VM
+I/AndroidRuntime( 2590): NOTE: attach of thread 'Binder_3' failed
+I/ActivityManager( 1380): START {flg=0x10000000 cmp=com.stradaos.launcher.debug/com.stradaos.launcher.Main (has extras) u=0} from pid 2590

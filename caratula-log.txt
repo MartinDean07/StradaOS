@@ -1,0 +1,19 @@
+--------- beginning of kernel
+--------- beginning of main
+--------- beginning of system
+11-11 06:45:12.326  2389  2499 I StradaOS-caratula: todas las canciones visibles: 0
+11-11 06:45:12.326  2389  2499 I StradaOS-caratula: consulta por título «frente al mar»: 0 filas
+11-11 06:45:12.330  2389  2499 I StradaOS-caratula: consulta por archivo «%frente%»: 0 filas
+11-11 06:45:12.349  2389  2499 I StradaOS-caratula: índice de audio: 1 archivos
+11-11 06:45:26.715  2389  2518 I StradaOS-caratula: todas las canciones visibles: 0
+11-11 06:45:26.716  2389  2518 I StradaOS-caratula: consulta por título «La Camisa Negra»: 0 filas
+11-11 06:45:41.040  2389  2538 I StradaOS-caratula: todas las canciones visibles: 0
+11-11 06:45:41.041  2389  2538 I StradaOS-caratula: consulta por título «Provenza»: 0 filas
+11-11 06:45:41.043  2389  2538 I StradaOS-caratula: consulta por archivo «%provenza%»: 0 filas
+11-11 06:45:55.233  2389  2560 I StradaOS-caratula: todas las canciones visibles: 0
+11-11 06:45:55.233  2389  2560 I StradaOS-caratula: consulta por título «Prueba Caratula StradaOS»: 0 filas
+11-11 06:45:55.236  2389  2560 I StradaOS-caratula: consulta por archivo «%prueba%»: 0 filas
+11-11 06:45:55.237  2389  2560 I StradaOS-caratula: encontrada recorriendo carpetas: /storage/emulated/0/Music/prueba-caratula-stradaos.mp3
+11-11 06:46:16.324  2389  2610 I StradaOS-caratula: todas las canciones visibles: 0
+11-11 06:46:16.324  2389  2610 I StradaOS-caratula: consulta por título «Cancion Que No Existe»: 0 filas
+11-11 06:46:16.327  2389  2610 I StradaOS-caratula: consulta por archivo «%cancion%»: 0 filas

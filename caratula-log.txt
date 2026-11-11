@@ -1,0 +1,20 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+I/StradaOS-caratula( 2010): todas las canciones visibles: 1
+I/StradaOS-caratula( 2010):   primera: Prueba Caratula StradaOS · /mnt/sdcard/Music/prueba-caratula-stradaos.mp3
+I/StradaOS-caratula( 2010): consulta por título «frente al mar»: 0 filas
+I/StradaOS-caratula( 2010): consulta por archivo «%frente%»: 0 filas
+I/StradaOS-caratula( 2010): índice de audio: 1 archivos
+I/StradaOS-caratula( 2010): todas las canciones visibles: 1
+I/StradaOS-caratula( 2010):   primera: Prueba Caratula StradaOS · /mnt/sdcard/Music/prueba-caratula-stradaos.mp3
+I/StradaOS-caratula( 2010): consulta por título «La Camisa Negra»: 0 filas
+I/StradaOS-caratula( 2010): todas las canciones visibles: 1
+I/StradaOS-caratula( 2010):   primera: Prueba Caratula StradaOS · /mnt/sdcard/Music/prueba-caratula-stradaos.mp3
+I/StradaOS-caratula( 2010): consulta por título «Provenza»: 0 filas
+I/StradaOS-caratula( 2010): consulta por archivo «%provenza%»: 0 filas
+I/StradaOS-caratula( 2010): consulta por título «Prueba Caratula StradaOS»: 1 filas
+I/StradaOS-caratula( 2010): canción encontrada: id 12 · /mnt/sdcard/Music/prueba-caratula-stradaos.mp3
+I/StradaOS-caratula( 2010): todas las canciones visibles: 1
+I/StradaOS-caratula( 2010):   primera: Prueba Caratula StradaOS · /mnt/sdcard/Music/prueba-caratula-stradaos.mp3
+I/StradaOS-caratula( 2010): consulta por título «Cancion Que No Existe»: 0 filas
+I/StradaOS-caratula( 2010): consulta por archivo «%cancion%»: 0 filas
